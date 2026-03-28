@@ -1,4 +1,4 @@
-OIBSIP-Data-Science-Internship/
+loginware -Data-Science-Internship/
 │
 ├── Task1-Iris-Flower-Classification/
 │   ├── iris_classification.ipynb
