@@ -1,18 +1,18 @@
-# Unemployment Analysis with Python 📊
+# Unemployment Analysis with Python 
 
-## 📌 Internship Task
-**Internship:** Oasis Infobyte  
+## Internship Task
+**Internship:** login ware** 
 **Task:** Task 2 - Unemployment Analysis with Python  
 
 ---
 
-## 📖 Project Description
+## Project Description
 This project focuses on analyzing unemployment trends in India using Python.  
 The objective is to understand how unemployment rates change over time, vary across regions, and differ between urban and rural areas, especially during the COVID-19 period.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Dataset Name:** Unemployment in India
 - **File Name:** Unemployment in India.csv
 - **Important Columns:**
@@ -25,7 +25,7 @@ The objective is to understand how unemployment rates change over time, vary acr
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -34,7 +34,7 @@ The objective is to understand how unemployment rates change over time, vary acr
 
 ---
 
-## 📈 Analysis Performed
+## Analysis Performed
 1. Loaded and explored the dataset
 2. Cleaned data and handled missing values
 3. Converted date column for time-series analysis
@@ -45,14 +45,14 @@ The objective is to understand how unemployment rates change over time, vary acr
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 - Unemployment increased sharply during the COVID-19 period.
 - Some regions consistently show higher unemployment rates.
 - Urban and rural unemployment trends differ significantly.
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Clone or download the repository
 2. Place `Unemployment in India.csv` in the same directory
 3. Open `unemployment_analysis.ipynb`
@@ -60,10 +60,10 @@ The objective is to understand how unemployment rates change over time, vary acr
 
 ---
 
-## 👤 Author
-**bhuvan teja ponakala**
+## Author
+**dhananjay**
 
 ---
 
-## 🌟 Acknowledgement
-Thanks to **Oasis Infobyte** for providing this internship opportunity.
+## Acknowledgement
+Thanks to **login ware** for providing this internship opportunity.

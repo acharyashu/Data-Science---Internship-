@@ -1,12 +1,12 @@
 # Iris Flower Classification 🌸
 
-## 📌 Internship Task
-**Internship:** Oasis Infobyte  
+##  Internship Task
+**Internship:** login ware
 **Task:** Task 1 – Iris Flower Classification  
 
 ---
 
-## 📖 Project Description
+## Project Description
 This project is a Machine Learning classification task that predicts the species of an Iris flower based on its physical measurements.  
 The model classifies flowers into three categories:
 - Iris-setosa
@@ -15,7 +15,7 @@ The model classifies flowers into three categories:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Dataset Name: Iris Dataset
 - File: Iris.csv
 - Features:
@@ -28,7 +28,7 @@ The model classifies flowers into three categories:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -38,12 +38,12 @@ The model classifies flowers into three categories:
 
 ---
 
-## 🤖 Machine Learning Algorithm
+##  Machine Learning Algorithm
 - Logistic Regression
 
 ---
 
-## ⚙️ Steps Performed
+## Steps Performed
 1. Imported required libraries
 2. Loaded and explored the dataset
 3. Preprocessed the data
@@ -54,13 +54,13 @@ The model classifies flowers into three categories:
 
 ---
 
-## ✅ Model Performance
+## Model Performance
 - Achieved high accuracy on the test dataset
 - Generated classification report for evaluation
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Clone the repository
 2. Open `iris_classification.ipynb`
 3. Run all cells sequentially
@@ -68,10 +68,10 @@ The model classifies flowers into three categories:
 
 ---
 
-## 👤 Author
-**bhuvan teja ponakala**
+##  Author
+**dhananjay**
 
 ---
 
-## 🌟 Acknowledgement
-Thanks to **Oasis Infobyte** for providing this internship opportunity.
+##  Acknowledgement
+Thanks to **login ware** for providing this internship opportunity.

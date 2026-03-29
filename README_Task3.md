@@ -1,19 +1,19 @@
-# Car Price Prediction with Machine Learning 🚗
+# Car Price Prediction with Machine Learning 
 
-## 📌 Internship Task
-**Internship:** Oasis Infobyte  
+## Internship Task
+**Internship:** loginware 
 **Task:** Task 3 - Car Price Prediction with Machine Learning  
 
 ---
 
-## 📖 Project Description
+## Project Description
 This project aims to predict the selling price of a car using Machine Learning techniques.  
 The car price depends on various factors such as the year of manufacture, present price, kilometers driven, fuel type, transmission type, and ownership history.  
 A Linear Regression model is trained to predict car prices based on these features.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Dataset Name:** Car Price Dataset
 - **File Name:** car data.csv
 - **Important Features:**
@@ -30,7 +30,7 @@ A Linear Regression model is trained to predict car prices based on these featur
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -40,12 +40,12 @@ A Linear Regression model is trained to predict car prices based on these featur
 
 ---
 
-## 🤖 Machine Learning Algorithm
+## Machine Learning Algorithm
 - Linear Regression
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 1. Imported required Python libraries
 2. Loaded and explored the dataset
 3. Handled missing values
@@ -59,14 +59,14 @@ A Linear Regression model is trained to predict car prices based on these featur
 
 ---
 
-## 📌 Model Evaluation
+## Model Evaluation
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R2 Score
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Clone or download the repository
 2. Place `car data.csv` in the same directory as the notebook
 3. Open `car_price_prediction.ipynb`
@@ -74,10 +74,10 @@ A Linear Regression model is trained to predict car prices based on these featur
 
 ---
 
-## 👤 Author
-**bhuvan teja ponakala**
+## Author
+**dhananjay**
 
 ---
 
-## 🌟 Acknowledgement
-Thanks to **Oasis Infobyte** for providing this internship opportunity.
+## Acknowledgement
+Thanks to **login ware** for providing this internship opportunity.

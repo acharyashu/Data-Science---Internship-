@@ -1,19 +1,19 @@
-# Sales Prediction Using Python 📊
+# Sales Prediction Using Python 
 
-## 📌 Internship Task
-**Internship:** Oasis Infobyte  
+## Internship Task
+**Internship:** loginware  
 **Task:** Task 5 - Sales Prediction Using Python  
 
 ---
 
-## 📖 Project Description
+## Project Description
 This project focuses on predicting product sales based on advertising expenditure using Machine Learning.
 The goal is to understand how different advertising platforms such as TV, Radio, and Newspaper affect sales.
 A Linear Regression model is trained to predict future sales.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Dataset Name:** Advertising Dataset
 - **File Name:** Advertising.csv
 - **Features:**
@@ -25,7 +25,7 @@ A Linear Regression model is trained to predict future sales.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -35,12 +35,12 @@ A Linear Regression model is trained to predict future sales.
 
 ---
 
-## 🤖 Machine Learning Algorithm
+## Machine Learning Algorithm
 - Linear Regression
 
 ---
 
-## ⚙️ Steps Performed
+## Steps Performed
 1. Loaded and explored the dataset
 2. Removed unnecessary columns
 3. Performed correlation analysis
@@ -52,14 +52,14 @@ A Linear Regression model is trained to predict future sales.
 
 ---
 
-## 📌 Model Evaluation
+## Model Evaluation
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R2 Score
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Clone or download the repository
 2. Place `Advertising.csv` in the same directory as the notebook
 3. Open `sales_prediction.ipynb`
@@ -67,10 +67,10 @@ A Linear Regression model is trained to predict future sales.
 
 ---
 
-## 👤 Author
-**bhuvan teja ponakala**
+## Author
+**dhananjay**
 
 ---
 
-## 🌟 Acknowledgement
-Thanks to **Oasis Infobyte** for providing this internship opportunity.
+##  Acknowledgement
+Thanks to **loginware** for providing this internship opportunity.

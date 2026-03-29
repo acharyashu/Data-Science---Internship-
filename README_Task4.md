@@ -1,19 +1,19 @@
 # Email Spam Detection with Machine Learning 📧
 
-## 📌 Internship Task
+##  Internship Task
 **Internship:** Oasis Infobyte  
 **Task:** Task 4 - Email Spam Detection with Machine Learning  
 
 ---
 
-## 📖 Project Description
+## Project Description
 This project focuses on building an Email Spam Detection system using Machine Learning.
 The model classifies emails as **Spam** or **Not Spam (Ham)** based on the message content.
 Text processing and classification techniques are used to detect unwanted or malicious emails.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Dataset Name:** SMS Spam Collection
 - **File Name:** spam.csv
 - **Columns Used:**
@@ -22,7 +22,7 @@ Text processing and classification techniques are used to detect unwanted or mal
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -32,12 +32,12 @@ Text processing and classification techniques are used to detect unwanted or mal
 
 ---
 
-## 🤖 Machine Learning Algorithm
+## Machine Learning Algorithm
 - Multinomial Naive Bayes
 
 ---
 
-## ⚙️ Steps Performed
+## Steps Performed
 1. Loaded and cleaned the dataset
 2. Removed unnecessary columns
 3. Encoded target labels (spam / ham)
@@ -50,14 +50,14 @@ Text processing and classification techniques are used to detect unwanted or mal
 
 ---
 
-## 📌 Model Evaluation
+##  Model Evaluation
 - Accuracy Score
 - Classification Report
 - Confusion Matrix
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Clone or download the repository
 2. Place `spam.csv` in the same directory as the notebook
 3. Open `email_spam_detection.ipynb`
@@ -65,10 +65,10 @@ Text processing and classification techniques are used to detect unwanted or mal
 
 ---
 
-## 👤 Author
-**Your Name**
+##  Author
+**dhananjay**
 
 ---
 
-## 🌟 Acknowledgement
-Thanks to **Oasis Infobyte** for providing this internship opportunity.
+## Acknowledgement
+Thanks to **loginware** for providing this internship opportunity.
